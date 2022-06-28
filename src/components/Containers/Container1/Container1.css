@@ -1,0 +1,53 @@
+.imgbgc1{
+    height: 500px;
+    width: 100%;
+    position: relative;
+    z-index: 0;
+    top: -82px;
+    background: url('/public/cont1.jpg') no-repeat;
+    background-size: 100%;
+    /* background-image: url('/public/cont1.jpg');
+    background-repeat:no-repeat; */
+    /* background-size:0px; */
+    /* background-blend-mode: lighten; */
+}
+.textarea1{
+    /* border: var(--container-corvid-border-width,var(--brw,1px)) solid var(--container-corvid-border-color,rgba(var(--brd,var(--color_15)),var(--alpha-brd,1)));
+    background-color: var(--container-corvid-background-color,rgba(var(--bg,var(--color_11)),var(--alpha-bg,1)));
+    border-radius: var(--rd,5px); */
+    box-shadow: var(--shd,0 1px 4px rgba(0,0,0,.6));
+    text-align: center;
+    width: 653px;
+    padding: 10px 0 10px 0;
+    font-size: 30px;
+    font-weight: bold;
+    border: 6px solid black;
+    position: relative; 
+    left: 450px;
+    z-index: 1;
+    top: -44px;
+    background-color: white;
+}
+.buttonarea{
+    box-shadow: var(--shd,0 1px 4px rgba(0,0,0,.6));
+    text-align: center;
+    padding: 10px 0 10px 0;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 450px;
+    z-index: 1;
+    top: -119px;
+    background-color: black;
+    border: 6px solid black;
+    width: 640px;
+}
+.startbar{
+    width: 600px;
+    color: white;
+    text-decoration: none;
+}
+#sicon{
+    color: white;
+    padding-left: 6px;
+}

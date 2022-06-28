@@ -1,0 +1,17 @@
+.form_cont{
+    top: 110px;
+    width: 540px;
+    left: 475px;
+    height: 145px;
+    position: relative;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form_cont1{
+    font-size: larger;
+}

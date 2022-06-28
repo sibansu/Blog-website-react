@@ -1,0 +1,14 @@
+.navbar{
+    padding: 30px 0px;
+    position: relative;
+    z-index: 0;
+}
+.nav-link{
+    color: black;
+    font-size: large;
+    padding-right: 1.5 rem;
+}
+.navbar-collapse{
+    display: flex;
+    justify-content: space-between;
+}
